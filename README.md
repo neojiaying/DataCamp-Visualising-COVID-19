@@ -11,7 +11,7 @@ This circuit breaker period happens to coincide with my summer break and I happe
 
 # Technologies Used
 1. R
-2. Jupyer Notebook
+2. Jupyter Notebook
 
 # Credits
 DataCamp
